@@ -9,7 +9,7 @@ public class Util {
     private static final String URL =
             "jdbc:mysql://localhost:3306/preproject?useSSL=false&serverTimezone=UTC";
     private static final String USER = "root";
-    private static final String PASSWORD = "";
+    private static final String PASSWORD = "Liza07_liza98?";
 
     public static Connection getConnection() {
         try {
